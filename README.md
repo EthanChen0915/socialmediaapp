@@ -1,5 +1,5 @@
 # socialmediaapp
-for testing account  if you dont want to register
+test account  if you dont want to register
 
 test@gmail.com
 password:123123
